@@ -2,7 +2,7 @@ import streamlit as st
 import re
 import pandas as pd
 import numpy as np
-from tqdm import tqdm
+#from tqdm import tqdm
 
 def process_message(message):
     words = re.split(r'[.,:;!?()\[\]"\s]+', message.lower())
