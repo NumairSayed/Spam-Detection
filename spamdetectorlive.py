@@ -61,7 +61,7 @@ def main():
     
     st.markdown("""
     ### Numair Sayed
-    I will not accept any banter over my UI choice. I tried explaining the concepts that I have used, feel free to reach out in case of suggestions and critique.
+    I have tried explaining the concepts that I have used, feel free to reach out in case of suggestions and critique.
     ### Email-Address: sayednumair2019@gmail.com 
     #### Dataset used for classification: https://www.kaggle.com/datasets/shantanudhakadd/email-spam-detection-dataset-classification
     ## Understanding the Naive Bayes Classifier
