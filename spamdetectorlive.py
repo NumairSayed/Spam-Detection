@@ -100,7 +100,7 @@ def main():
     - Merchant A: \( P(good|A) = (9+1)/(10+2) = 10/12 = 0.833 )
     - Merchant B: \( P(good|B) = (90+1)/(100+2) = 91/102 = 0.892 )
 
-    The intuitive explanation to this would be, adding 1 to numerator extends the event of you haveing a good experience and adding 2 to the 
+    The intuitive explanation to this would be, adding 1 to numerator extends the event of you having a good experience and adding 2 to the 
     denominator extends the sample space to consider 2 more probable events when you enter into the sample space, i.e you may induce a good 
     and a bad review probabilistically. This helps heavily in dealing with datasets in which certain events have zero probability or
     calculating results for a data which is not yet seen but may appear in a question prompt.
